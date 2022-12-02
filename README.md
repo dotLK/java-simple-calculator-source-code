@@ -1,6 +1,8 @@
 # java-simple-calculator-source-code
 java simple calculator source code
 
+🔵 Java for Beginners step by step Complete Java Full Course in 8 Hours Java සිංහලෙන් ඉගන ගනිමු :
+ https://youtu.be/_7rZSojr7jk
 ```java
 
 package GUI;
